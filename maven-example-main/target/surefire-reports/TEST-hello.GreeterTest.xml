@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="6" failures="0" name="hello.GreeterTest" time="0.009" errors="0" skipped="0">
+<testsuite tests="6" failures="0" name="hello.GreeterTest" time="0.016" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2022.3.3"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="17.0.6+10-LTS"/>
     <property name="sun.boot.library.path" value="C:\Users\dilee\.jdks\corretto-17.0.6\bin"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\dilee\Desktop\mvn sample\maven-example-main"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\dilee\Desktop\task2\build-tool-repo\maven-example-main"/>
     <property name="java.vm.vendor" value="Amazon.com Inc."/>
     <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="user.country" value="IN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\dilee\Desktop\mvn sample\maven-example-main"/>
+    <property name="user.dir" value="C:\Users\dilee\Desktop\task2\build-tool-repo\maven-example-main"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="java.runtime.version" value="17.0.6+10-LTS"/>
     <property name="os.arch" value="amd64"/>
@@ -43,7 +43,7 @@
     <property name="java.class.path" value="C:\Users\dilee\.m2\wrapper\dists\apache-maven-3.3.9-bin\2609u9g41na2l7ogackmif6fj2\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="17"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2022.3.3 package"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2022.3.3 install"/>
     <property name="java.home" value="C:\Users\dilee\.jdks\corretto-17.0.6"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -60,9 +60,9 @@
     <property name="java.vendor.version" value="Corretto-17.0.6.10.1"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="hello.GreeterTest" name="testFullnameMethod_success_scenario" time="0.003"/>
+  <testcase classname="hello.GreeterTest" name="testFullnameMethod_success_scenario" time="0.004"/>
   <testcase classname="hello.GreeterTest" name="testsayHellomethod" time="0"/>
-  <testcase classname="hello.GreeterTest" name="greeterSaysHello" time="0.006"/>
+  <testcase classname="hello.GreeterTest" name="greeterSaysHello" time="0.012"/>
   <testcase classname="hello.GreeterTest" name="testMultiplicationby2_fail_scenario" time="0"/>
   <testcase classname="hello.GreeterTest" name="testMultiplicationby2_successScenario" time="0"/>
   <testcase classname="hello.GreeterTest" name="testFullnameMethod_failure_scenario" time="0"/>
