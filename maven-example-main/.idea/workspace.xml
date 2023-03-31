@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="883a0862-49b4-48a1-80a2-2e0f9f3e96e4" name="Changes" comment="my fourth commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="883a0862-49b4-48a1-80a2-2e0f9f3e96e4" name="Changes" comment="my fifth commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680243096372</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="my fifth commit">
+      <created>1680250362203</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680250362203</updated>
+    </task>
+    <task id="LOCAL-00006" summary="my fifth commit">
+      <created>1680250378278</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680250378278</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +107,7 @@
     <MESSAGE value="my second commit" />
     <MESSAGE value="my third commit" />
     <MESSAGE value="my fourth commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="my fourth commit" />
+    <MESSAGE value="my fifth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="my fifth commit" />
   </component>
 </project>
