@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="883a0862-49b4-48a1-80a2-2e0f9f3e96e4" name="Changes" comment="my third commit">
+    <list default="true" id="883a0862-49b4-48a1-80a2-2e0f9f3e96e4" name="Changes" comment="my fourth commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680241497085</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="my fourth commit">
+      <created>1680243096372</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680243096372</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +94,7 @@
     <MESSAGE value="my first commit" />
     <MESSAGE value="my second commit" />
     <MESSAGE value="my third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="my third commit" />
+    <MESSAGE value="my fourth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="my fourth commit" />
   </component>
 </project>
